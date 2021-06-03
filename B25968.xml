@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of Jabez-Eliezer Russel son to William Russel, in the parish of St. Bartholomew the Great, London. Who departed this life to possess a better, Feb. 19. 71. Being nine years, two months, and six dayes old. Wherein are divers memorable passages spoken by him in the time of his sickness; with other things of remark in the time of his health, worthy to be perpetuated to posterity. Written for the benefit of all, but especially two sorts, parents and children. With some acrostick verses, an elegy and epitaph upon his death.</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25968</idno><idno type="EEBO-CITATION">99828422</idno>
+  <idno type="VID">207812</idno>
+  <idno type="EEBO-PROQUEST">2240864229</idno>
+  
+            <idno type="STC">Wing L1996</idno>
+            <idno type="PROQUEST">99828422</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828422e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1954:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of Jabez-Eliezer Russel son to William Russel, in the parish of St. Bartholomew the Great, London. Who departed this life to possess a better, Feb. 19. 71. Being nine years, two months, and six dayes old. Wherein are divers memorable passages spoken by him in the time of his sickness; with other things of remark in the time of his health, worthy to be perpetuated to posterity. Written for the benefit of all, but especially two sorts, parents and children. With some acrostick verses, an elegy and epitaph upon his death.</title>
+                  <author>Russell, William, 1634-1696?</author>
+               </titleStmt>
+               <extent>[6], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Christian reader" signed: William Russel.</note>
+                  <note>Reproduction of the original in Dr. Williams's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Russell, Jabez Eliezer, 1662-1671 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207812:1"/>
+            <p>THE LIFE and DEATH OF <hi>ABEZ-ELIEZER RUSSEL,</hi> Son to <hi>William Russel,</hi> in the Parish of St. <hi>Bartholomew</hi> the Great, <hi>London.</hi> Who departed this life to possess a better, <hi>Feb.</hi> 19. 71. Being nine years, two months, and six dayes old. Wherein are divers memorable Passages spoken by him in the time of his sickness; with other things of remark in the time of his health, worthy to be perpetuated to posterity. Written for the benefit of all, but especially two sorts, <hi>Parents</hi> and <hi>Children.</hi>
+            </p>
+            <p>With some Acrostick Verses, an Elegy and Epitaph upon his Death.</p>
+            <q>
+               <p>The memory of the Just is blessed, <bibl>
+                     <hi>Prov. 10.7.</hi>
+                  </bibl>
+               </p>
+               <p>Come ye Children hearken unto me, I will teach you the fear of the Lord, <bibl>
+                     <hi>Psal. 34.11.</hi>
+                  </bibl>
+               </p>
+               <p>And that from a Child thou hast known the Holy Scriptures, which are able to make thee wise unto Salvation, <bibl>
+                     <hi>2 Tim 3.15.</hi>
+                  </bibl>
+               </p>
+               <p>I rejoyced greatly that I found of thy Children walking in the Truth, <bibl>
+                     <hi>John 2.4.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207812:2"/>
+            <pb facs="tcp:207812:2"/>
+            <head>TO THE Christian Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E ought to reckon the enjoyment of Children none of our smallest blessings, especially when God hath planted the Seeds of Grace in their Souls: we sometimes mistake their value while we have them, but are made to know it when we lose them, the knowledge of which costs us dear. Divine Grace ennobles their spirits, puts a lustre upon them, forms holiness, and stamps the Image of God in their Souls, by which it may be read, as in legible Characters, That they are the Children of God, and Heirs of Glory. This fits them to serve God here, and is the earnest of their inheritance of Glory hereafter. For what is Grace, but Glory begun? But how few there are that have got this Pearl, whose Hearts are possessed with this Gem, and whose Souls are enamel'd with this invaluable Treasure of Saving Grace, the vanity and impiety of our Age doth sufficiently evince; not only among the common sort, but the Wise, the Learned, the Migh<g ref="char:EOLhyphen"/>ty, the Noble, that should be examples of Vertue and Piety to others, are become encouragers of Vice and Impiety.</p>
+            <p>But the Lord of his rich Grace (who hath denyed it them) hath bestowed it upon Him, who is now become the subject of my Pen, and an object of mortality, that in him might be ve<g ref="char:EOLhyphen"/>rified what was declared by the Prophet <hi>David,</hi> Psal. 8.2. <hi>Out of the Mouths of Babes and Sucklings hast thou ordained strength, because of thine Enemies, that thou mightest still the Enemy and the Avenger.</hi> As also our Blessed Lord and Saviour, who said,
+<pb facs="tcp:207812:3"/> Mat. 11.25, 26. <hi>I thank thee, O Father, Lord of Heaven and Earth, because thou hast hid these things from the Wise and Pru<g ref="char:EOLhyphen"/>dent, and hast revealed them unto Babes: even so, Father, for thus it seemed good in thy sight.</hi>
+            </p>
+            <p>I am fully satisfied that <hi>Jabez-Eliezer</hi> had the work of Faith with Power, wrought effectually by the Spirit upon his Soul; as also the evidence of the pardon of his sins by the Blood of Jesus, with full assurance of his interest in the heavenly Inheri<g ref="char:EOLhyphen"/>tance, believing he should possess it when he departed out of this World, as will appear by his expressions in this ensuing Dis<g ref="char:EOLhyphen"/>course.</p>
+            <p>I have been moved to publish it for the benefit of two sorts of Persons, <hi>Parents,</hi> and <hi>Children,</hi> (though it may be of general advantage to all) to whom I shall in order both of time and place direct my Discourse.</p>
+            <p>First, You that are <hi>Parents,</hi> Let me perswade you to teach them the Fear of the Lord betimes: <hi>Train up your Children in the way they should go</hi> whilst they are young; bring them up in the Nurture and Admonition of the Lord; Instruct them in the Rudiments of the Christian Religion; take care that they spend the Lords-Day in Holy Exercise; and for their encourage<g ref="char:EOLhyphen"/>ment be you their Example; when they have been hearing the Word of God, examine them about it; and what they have learned, fasten upon their spirits by good instruction, that it may abide with them: Never speak of God, his Word, and Works, but with holy reverence: Take heed of sinning at all times, but especially in their presence, lest you become the ruine of their Souls by your evil example.</p>
+            <p>See that you carry it like Christians one to another, in that re<g ref="char:EOLhyphen"/>lation you stand in, as Husband and Wife, and towards them as Parents. Keep up the practice of Prayer in your Families in the presence of your Children, and let your Expressions bespeak the awful reverence you have of Almighty God, to whom you direct your Prayers; and in your requests beg of God that he would bless them both in Soul and Body; shewing them the evil of sin, the dreadful punishment of sinners in Hell; the ex<g ref="char:EOLhyphen"/>cellency and necessity of Christ, and the Joys of Heaven; that
+<pb facs="tcp:207812:3"/> as he hath made them yours by Generation, they may be his by Regeneration, and renewing of the Holy Spirit.</p>
+            <p>Teach them their duty to you as Children, both in Honour and Obedience, and let them know the distance that is betwixt you in point of relation.</p>
+            <p>Now if in all this you can be instrumental (through a blessing from above) to save their Souls, it will be of much greater concernment than all the pains and care you can take about it.</p>
+            <p>Secondly, You that are <hi>Children,</hi> Be perswaded seriously to read and meditate what I have here presented to your view; fol<g ref="char:EOLhyphen"/>low the example that is set before you; remember what <hi>Jabez-Eliezer</hi> did, who is gone to Heaven, that you may meet him with comfort in the Resurrection-Day, that he may bid you welcome, and rejoyce in your company; for that in his life he lived to God, and being dead, he yet speaketh. Now if this may contribute any thing towards your Salvation, 'twill be profit to you, and rejoycing to him in the day of Christ.</p>
+            <p>God Almighty hath commanded you <hi>to remember your Crea<g ref="char:EOLhyphen"/>tor in the dayes of your youth,</hi> Eccles. 12.1. Beware therefore that you forget not your duty, but take the advice of Holy <hi>Da<g ref="char:EOLhyphen"/>vid</hi> to his Son <hi>Solomon,</hi> 1 Chron. 28.8, 9. <hi>Now therefore in the sight of</hi> Israel, <hi>the Congregation of the Lord, and in the audience of our God, keep and seek for all the Commandments of the Lord y<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur God. — And thou</hi> Solomon <hi>my Son, know thou the God of thy Father, and serve him with a perfect heart, and with a willing mind.</hi>
+            </p>
+            <p>The Lord hath been pleased for your encouragement to take special notice of such in the Holy Scriptures, that have remem<g ref="char:EOLhyphen"/>bred him in the dayes of their youth; it is said of <hi>Timothy,</hi> 1 <hi>Tim.</hi> 3.15. <hi>And that from a Child thou hast known the Holy Scriptures, which are able to make thee wise unto Salvation, through Faith which is in Christ Jesus.</hi> St. <hi>John</hi> in his Epistle to the Elect lady hath these Expressions; <hi>The Elder unto the Elect Lady and her Children, whom I love in the Truth. — I rejoyced greatly, that I found of thy Children walking in truth, as we have received a Commandment from the Father.</hi>
+            </p>
+            <pb facs="tcp:207812:4"/>
+            <p>If you will but practise according to these Examples, there will be Peace on Earth, and Joy in Heaven.</p>
+            <p>Be careful to obey your Parents in all their lawful commands not grudgingly, but with chearfulness: Consider the Obligatio<gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that lies upon you, and perform it.</p>
+            <p>Let it be to you matter of Admiration as well as Considera<g ref="char:EOLhyphen"/>tion, that he whose work was so great, and time so short, sho<gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap> make such dispatch in the finishing of it: Though he was a Child, he pressed after Heaven with a holy violence to take it, as it were by force; he was so afraid of sin, he slighted Life, and chose Death, lest he should commit it: He had such a love to, esteem of, and delight in the Lord Jesus, that nothing else could satisfie him, but a comfortable assurance of an interest in him; that he should be so affected with the Duty of Prayer, that for some few Omissions he should conclude he had so sinned as to provoke God to lay affliction upon him, when (it's to be fear<g ref="char:EOLhyphen"/>ed) many of grown years make not that care and Conscience a<g ref="char:EOLhyphen"/>bout greater sins; they will not forsake their Old Iniquities nor live to God in New Obedience; they wish when they die they may go to Heaven, but walk while they live in the wayes of Hell: But,
+<q>
+                  <l>Wouldst thou, when Death hath done, deserve a Story</l>
+                  <l>Should stain the mem'ry of Great <hi>Pompey</hi>'s glory?</l>
+                  <l>Conquer thy self, Example be thy Guide,</l>
+                  <l>Die just, as our Sin-conquering <hi>Jabez</hi> dy'd.</l>
+               </q>
+            </p>
+            <p>I have no more to say, but commit you to God, who will re<g ref="char:EOLhyphen"/>ward you if ye do well, and punish you if ye do ill; whom I implore for a blessing upon your Child-like endeavours, begging that he would not onely begin a good work in your Souls; but that he will perfect it to the day of Christ; which is</p>
+            <closer>
+               <signed>The earnest desire, and Prayer of your Christian Friend, to serve you in what I may, <hi>William Russel.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207812:4"/>
+            <head>The memorable Passages of the Birth, Life and Death of <hi>Jabez-Eliezer Russel, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall first give you an account of his Birth. Secondly, Of his Life: And thirdly, Of the manner of his Death.</p>
+            <p n="1">I. As to the time and place of his Birth; He was born in the Town of <hi>Chesham,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Bucks,</hi> upon the 18th of <hi>December,</hi> 1662. about ten of the Clock at Night; so that the <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ole term of his life was nine years, two months, and six dayes; <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter which, having done his Work, he finished his Course with <gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>oy.</p>
+            <p>About his Birth are two things considerable; as first his <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; secondly, The occasion of it. His name was <hi>JABEZ,</hi> which signifies <hi>sorrowful,</hi> and <hi>ELIEZER,</hi> which signifies, <hi>my <gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ol is an helper.</hi>
+            </p>
+            <p>The occasion of it was this; His Mother having been in ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nity of misery for the space of ten or twelve dayes, insomuch <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her Neighbours about her despaired of her life; his Father. <gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing up the Bible to read it, opened in the 1 <hi>Chron.</hi> 4.9, 10. there it is thus written, <hi>And</hi> Jabez <hi>was more honourable then his <gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>hen: and his Mother called his name</hi> JABEZ, <hi>saying, Because but him with sorrow. And</hi> Jabez <hi>called on the God of</hi> Israel, after <hi>O that thou wouldest bless me indeed, and enlarge my Coast, <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that thine hand might be with me, and that thou wouldest keep <gap reason="illegible" resp="#uom" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> evil, that it may not grieve me. And God granted him <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which he requested.</hi> When his Father had read these words, <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was considering that he had never observed them before, he came a Messenger to him with the Joyful Tydings, that he <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Son born into the World: He immediately resolved to <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him <hi>JABEZ-ELIEZER; Jabez,</hi> because his Mother bare with sorrow, and <hi>Eliezer,</hi> to keep in memory the goodness
+<pb n="2" facs="tcp:207812:5"/> and mercy of Almighty God to his Mother, who had b<gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> gratious to help and deliver her in her great Extremity, <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> according to outward probability she was past recovery.</p>
+            <p n="2">II. As to his Life, the comfort he enjoyned in it, was <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with sorrow and affliction: When he was at home with hi<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rents, little observation could be made, only he took more <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ordinary notice of what past in the Family. When he was a<gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> three years and a quarter old, he had only learnt his Letters, an<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was then carried to dwell with his Grand-father and Grand mother <hi>Russel,</hi> at the Town of <hi>Wadsdon,</hi> three miles from <hi>Aile<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bury,</hi> in the County of <hi>Bucks,</hi> where he remained about for years and three-quarters; yet never went to School in all the time, but took his learning as if he had spent his whole time there: In the month of <hi>December, Anno</hi> 1670, his Grand-mother dyed, he was then brought up to <hi>London</hi> to his Father and Mo<g ref="char:EOLunhyphen"/>ther (living in St. <hi>Bartholomews-Close</hi>) being sick of an A<gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> which remained some time upon him, by which his spirits we<gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> brought very low, and he very melancholly: He went abo<gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ten dayes time to learn Latin, at Christs-School, <hi>London;</hi>
+               <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by reason of his illness and indisposition of body, he was not c<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pable to go any longer; and this was all the time he spent <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> School in his whole life.</p>
+            <p>There are ten Things very observable in his Life: As,</p>
+            <p n="1">1. His readiness to obey his Parents in what they commande<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him.</p>
+            <p n="2">2. His addicting himself to the reading of the Holy Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <p n="3">3. His great Memory; He was able to give a particular a<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>count of most of the memorable Passages both in the Old a<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> New Testament, with the names of Persons, their Actions, a<gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Circumstances thereof: To say no more, his retentive <gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>culty was so capacious, that what-ever he read, he made it <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own.</p>
+            <p n="4">4. His meditation in the Word of God, in the practice <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which he was both frequent and seriou<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he shewed much his skill therein by his sublime Discourses about it, and the u<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>derstanding he had of the Divine Matter contained therein, wh<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shewed him to be a great proficient.</p>
+            <p n="5">
+               <pb n="3" facs="tcp:207812:5"/>5. <gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> addicting himself to that great and necessary duty of <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he was not only affected with it, but made Conscience <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and would daily perform it.</p>
+            <p n="6">6. His taking notice of the Works of God, which he shewed his reckoning up the mighty Acts which the Lord hath done <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his People, and against his Enemies in the dayes of old.</p>
+            <p n="7">7. His taking notice of what he heard when he went to Ser<g ref="char:EOLhyphen"/>mons, of which he gave an account when he came home.</p>
+            <p n="8">8. His fearing sin greatly, he said to his Brother <hi>Nehemiah,</hi> about twelve months before he died, when he was about eight years old, <hi>I would I had died when I first came forth of the Womb (as my Sisters did) before I could have spoke; it had been better for me, for then I could not have sinned. Now I may live to be a man, and sin, and go to Hell, where they are alwayes a burning, and never die.</hi>
+            </p>
+            <p n="9">9. His great care to avoid doing that which might be to the prejudice of another; if he found any thing that was lost, he would discover it, that it might be restored to the right owner.</p>
+            <p n="10">10. His forwardness and zeal to Holy Duties was such, that he did not only practise them himself, but would be putting his Brother <hi>Nehemiah</hi> (who was about seven years old) upon the Duty of Prayer, and taking notice of what he read in the Holy Scriptures: and thanks be to God, his words (through a bles<g ref="char:EOLhyphen"/>sing from above) proved effectual to him in both.</p>
+            <p n="3">III. As to the manner of his death; he was taken ill of the small pox, <hi>Feb.</hi> 11. 1671. being the Lords-Day, and lay sick till the <gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nteenth day, betwixt one and two of the Clock in the morn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g, about which time he departed this life to possess a better; <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to enjoy that he so much longed for, even the Presence of God, and the Holy Angels.</p>
+            <p>In the time of his sickness were these memorable Passages that <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ow, worthy to be perpetuated for the benefit of posterity, considering his tender years.</p>
+            <p>He had a great sence upon him in the time of his sickness, both <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Original and Actual sin.</p>
+            <p>Of <hi>Original-sin,</hi> he said, <hi>Oh what Parents had we to bring <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> things upon their Children! I would there had been no such
+<pb n="4" facs="tcp:207812:6"/> Tree that had bore such evil fruit: if they had been all good Tr<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> then this had not been.</hi>
+            </p>
+            <p>Concerning <hi>Actual-sin,</hi> he expressed his great sense of it, in<g ref="char:EOLhyphen"/>somuch that the fear of committing it made him unwilling to live; for when his Mother askt him, whether he were not wil<g ref="char:EOLhyphen"/>ling to live? his answer was, <hi>He should, if he were sure he should be as fit to die another time: but he doubted he should not, for</hi> (saith he) <hi>there is not a man that lives a week without committing many sins; and it may be it may please God to take me away from the calamity that is coming upon</hi> England <hi>by War.</hi>
+            </p>
+            <p>He desired that his Father would pray for him. His Mother askt him, What he would have his Father pray for? his answer was, <hi>That God would pardon his sins, and fit him for his holy Ha<g ref="char:EOLhyphen"/>bitation:</hi> His Mother said, Child, thou hast not committed many sins. <hi>Yes,</hi> saith he, <hi>I have sinned many a time, and yet I think as seldom as most Boys have; but the reason why God hath plagued me thus, is, because I have neglected Prayer: I have prayed sometimes, but n<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t so often as I used formerly to do.</hi> And in the sence of this he was much cast down, and said, <hi>It's a brave thing to have Faith, Faith is a great Work; if we had Faith but as a grain of Mustard-seed, we might say to this Mountain, Be thou removed, and cast into the Sea, and it should obey us: But</hi> Peter <hi>wanted Faith once, when he walked upon the Water; for if Christ had not reached forth his hand to him, he had perished as</hi> Pharoah <hi>did; though he had been in a better condition, because he was a better man.</hi>
+            </p>
+            <p>In the time of his sickness he lay admiring the patience, long-suffering, and forbearance of God towards the wicked, saying, <hi>He would have spared that City of</hi> Sodom, <hi>if there had been but ten righteous in it, for their sakes; but because they were so wicked, the Lord rained Fire and Brimstone from Heaven upon them, by which they were destroyed:</hi> But he observed, <hi>That God had such respect to his faithful Servant Righteous</hi> Lot, <hi>that he, and his, were preserved from that great destruction; as also, that his Wife for her disobedience, was turned into a Pillar of Salt, as a standing monument of Gods displeasure.</hi>
+            </p>
+            <p>Himself in this disponding frame went to prayer, in which he expressed himself as one that had a great sence of sin upon
+<pb n="5" facs="tcp:207812:6"/> him; and amongst many other very sensible and experimental <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xpressions, these words fell from his tender Lips: <hi>Lord, re<g ref="char:EOLhyphen"/>member not against me former iniquities.</hi>
+            </p>
+            <p>Whilst he lay in this blessed frame of spirit, pouring out his Soul in prayer to God, being yet under some fear whether Christ would receive him, he calls to his Mother, saying, <hi>Mother, I see a Vision:</hi> which he related as followeth,</p>
+            <p>
+               <hi>I see Clouds, and a face looking through them, and he reacheth forth his hand to stroke me, and to take hold of me, and others: but with his other hand he thrusts away great black men that speak blasphemy against him; and he hath a brown purple coloured silk Garment on.</hi> His Mother askt him, What manner of man he was? he answered, <hi>I see his eyes, and a glymps of his nose, but his face is so glorious that I cannot look upon it.</hi> His Mother askt him, who he thought this man was? and he said <hi>CHRIST.</hi>
+            </p>
+            <p>When he had ended this Relation, his Father said to him, now <hi>Jabez,</hi> I hope you will be willing to die: He answered, <hi>That he should, if he were sure this were true.</hi> He then desired his Father would pray for him, that God would pardon his sins, which accordingly he did, and then left him.</p>
+            <p>After this he met with some dispondencies, and desired his Father would come up again and pray for him; <hi>For</hi> (saith he) <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>will hear his prayers:</hi> But his Father not coming up pre<g ref="char:EOLhyphen"/>sently, being ingaged in business, he called to his Mother, and said, <hi>Mother, I see another Vision; I see little white Lambs lie upon little round Tables; and they are so white,</hi> — His Mo<g ref="char:EOLhyphen"/>ther askt him how they came so white? He presently replyed, <hi>They are washed in the Blood of Christ, and sanctifyed by the Holy Spirit.</hi> After this his Father came up, and prayed for him, and he received some satisfaction, but it was still mixt with doubting.</p>
+            <p>His Mother being apprehensive of his Death, brake forth into tears, and said, My Child will die, I shall never see him any more: He presently replyed, <hi>Mother, he comforted; comfort your self in the Lord; I hope I shall see you and my Father a<g ref="char:EOLhyphen"/>gain, I hope we shall all meet again in the Resurrection.</hi>
+            </p>
+            <p>He once being left at home alone upon the Lord's-day, the whole Family being gone to hear the Word of God; it was the
+<pb n="6" facs="tcp:207812:7"/> 24th day of <hi>December</hi> last past, in this time of his sickness (ha<g ref="char:EOLhyphen"/>ving never spake of it to her before) he told his Mother, That upon that day he was afraid of every little noise that he heard, that it was some body that was coming in to rob the House; but (saith he) I went and took the Bible and look'd Scriptures to comfort me; one was this, <hi>Be not afraid of sudden Fear: But</hi> (saith he) <hi>I was <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>one, for the Lord was with me.</hi>
+            </p>
+            <p>He would often a<gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>or his Bible in the time of his sickness; but his eyes being almost closed with the distemper, so that he could not see to read; his Mother said, Child, thou canst say it without Book; for, he had made the reading the holy Scrip<g ref="char:EOLhyphen"/>tures so much his business in the time of his health, that he could say many whole Chapters without Book both in the Old and New Testament, so that there was good ground for such a conclusion.</p>
+            <p>Sometime before he died, he had comfortable expressions con<g ref="char:EOLhyphen"/>cerning Glory to come, and good hopes of his interest in Christ, and the salvation of his Soul: and being discoursing concerning Heaven, and his being in the possession of it, he said, <hi>I shall see the Holy Angels; and I shall be ashamed they will be so glorious; for I am dust and ashes: there I shall see the twelve Apostles sit up<g ref="char:EOLhyphen"/>on twelve Thrones, judging the twelve Tribes of</hi> Israel: <hi>and Jesus Christ, and God above them all: who would but praise such a God, that hath wrought such wonders in</hi> Egypt, <hi>and at the</hi> Red-Sea, <hi>in destroying</hi> Pharaoh <hi>and his Host: Praise the Lord all ye Nations, fall down and worship before him; for he hath shewed marvellous things: I will praise him as long as I live:</hi> And he performed his promise, for he was much drawn forth in praising God the remaining part of his life.</p>
+            <p>He having had but little rest a long time before, his Mother said unto him, Child, leave talking, and see if thou canst sleep. He answered, <hi>Mother, which do you think will do me most good, sleep, or God?</hi> Child, said his Mother, God hath appointed sleep to do us good, and to nourish us while we be here. He answered, <hi>Yes, but Mother, Prayer will do me more good; prayer is better than sleep; I am best when I pray.</hi> His Mother said, Ah, my poor Child will never sleep again, I doubt, here! <hi>Mother</hi> (saith he) <hi>be comforted, I do sleep some-times; comfort your self in the Lord.</hi>
+            </p>
+            <pb n="7" facs="tcp:207812:7"/>
+            <p>His Mother askt him, if he was willing to die? He answer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#uom" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <hi>let, if he were sure he should go to Heaven; but Mother, I <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not chuse but weep, the first time I read of Christ's sufferings, <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be should suffer such a death, for such sinners as we are. When was in the Countrey, I thought they did very ill that went to Meet<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gs.</hi> His Mother said, Why didst think so? Did thy Grand<g ref="char:EOLhyphen"/>father or Grand-mother tell thee so? He answered, <hi>No, but o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hers did, and said, they brought sufferings upon themselves: But</hi> saith he) <hi>I did not consider, that they were better suffer here, and <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pleasure in the World to come; than have pleasure here, and suffer in the World to come.</hi>
+            </p>
+            <p>A little before his death, in the height of his extremity, he <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut forth his hand, and with much vehemency of Spirit utter<g ref="char:EOLhyphen"/>ed these Expressions; <hi>Praised be the Lord God:</hi> And the last time that his Mother remembers she heard him say any thing of this kind, after he had layen, and could hardly bring out his words for a considerable time before, he stretched forth his hand, and said with a loud voice, <hi>My God.</hi> His Mother said, Child, thee hast assurance thou shalt go to thy God, hast thee not? <hi>Yes,</hi> saith he.</p>
+            <p>He would often say in the time of his sickness, That he had <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ver seen any of his Sisters, but now he should see them; and a little before his departure out of this World, he not having spoke a word a considerable space of time before, turned his face towards his Mother, saying, <hi>Mother, what were my Sisters names?</hi> His Mother answered, Child, one was <hi>Hephzibah,</hi> and another was <hi>Sarah,</hi> and he remembring the third, said, <hi>Grace,</hi> which was the name of his other Sister; and as I apprehend, the <gap reason="illegible" resp="#uom" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>son of his enquiring after their names was this, that he did believe they were gone to Heaven, and that he should know <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and call them by their names when he came there.</p>
+            <div type="acrostic">
+               <pb n="8" facs="tcp:207812:8"/>
+               <head>To the beloved memory of <hi>Jabez-Eliezer Russel, An</hi> ACROSTICK.</head>
+               <lg>
+                  <l>J Is <hi>Jabez</hi> dead and gone, and left us here!</l>
+                  <l>A And shall we not for him let fall a tear!</l>
+                  <l>B Behold! His Sun no sooner came in sight</l>
+                  <l>E Even with the Hemisphere, but it was night;</l>
+                  <l>
+                     <gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Zeal made him then to give the brightest light.</l>
+               </lg>
+               <lg>
+                  <l>E Eternity in bliss he doth possess;</l>
+                  <l>L Lament no more, his Soul's in happiness</l>
+                  <l>I I am assured: for Christ he did enjoy</l>
+                  <l>E Even while he lived in his House of Clay.</l>
+                  <l>
+                     <gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Zealous for God, for Heav'n he did prepare,</l>
+                  <l>E Each day and hour, each week, each month, and year,</l>
+                  <l>R Remembring well how short his time was here.</l>
+               </lg>
+               <lg>
+                  <l>R Rare Soul! that now sits crown'd in Heaven's Quire,</l>
+                  <l>U Viewing that God thy Soul did much desire.</l>
+                  <l>S Should we lament? No, rather let's rejoyce,</l>
+                  <l>S Since thou hast made both Christ and Heav'n thy choic<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>E Else there were cause: but now thy Work is done,</l>
+                  <l>L Let us the race that's set before us run.</l>
+               </lg>
+            </div>
+            <div type="elegy">
+               <head>An Elegy upon the Death of <hi>Jabez-Eliezer Russel.</hi>
+               </head>
+               <l>IS <hi>Jabez</hi> dead i'th blossom of his Day!</l>
+               <l>Hold, hold, my Muse, let's make a little stay.</l>
+               <l>If Death hath done it, sure he is unkind,</l>
+               <l>In taking him, and leaving worse behind.</l>
+               <l>He might have spar'd and try'd him; let him know,</l>
+               <l>'Twas harsh and cruel, 'twas a Coward's blow.</l>
+               <pb n="9" facs="tcp:207812:8"/>
+               <l>Was he thy equal? Was there none but he</l>
+               <l>thou could'st find out to be a match for thee?</l>
+               <l>
+                  <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Earth's round Globe hath multitudes of Men,</l>
+               <l>Tall Cedars that are ripe; why didst thou then</l>
+               <l>
+                  <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay hold of him, who might (if spar'd) have done</l>
+               <l>Service for God, his Countrey, and his own</l>
+               <l>Parents, of whom thou hast him now bereft.</l>
+               <l>Could none supply his place that thou hast left?</l>
+               <l>Must cut down Infants, and let Age go free?</l>
+               <l>If God hath sent thee, we will silent be.</l>
+               <l>Though it be hard for Flesh thus to comply,</l>
+               <l>Tis Grace alone must give the victory</l>
+               <l>On our side, and make us to fulfill</l>
+               <l>In every thing our great Creators Will.</l>
+               <l>But hold my Muse, let's not of Death complain▪</l>
+               <l>Though loss to us, yet Death to him was gain.</l>
+               <l>He left this World, where nought but trouble is,</l>
+               <l>But's gone to Heaven, where there is nought but bliss.</l>
+               <l>The Blessed Angels there he doth behold,</l>
+               <l>The twelve Apostles, and the Saints of old,</l>
+               <l>With Jesus Christ, who kept his Soul from thrall,</l>
+               <l>And God Almighty sits above them all.</l>
+               <l>God's very presence fills his Soul with Joy,</l>
+               <l>Such as is endless, and will last for aye.</l>
+               <l>
+                  <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e now is one of that blest Quire made,</l>
+               <l>With Hallelujah's make their constant trade;</l>
+               <l>That which he long'd for, now he doth possess;</l>
+               <l>His Soul is fill'd top full with happiness.</l>
+               <l>He feared sin, sin doth him not annoy:</l>
+               <l>Christ was his Life, Christ now he doth enjoy.</l>
+               <l>He's out o'th reach of all temptations got,</l>
+               <l>Heaven is become the portion of his lot.</l>
+            </div>
+            <div type="epitaph">
+               <pb n="10" facs="tcp:207812:9"/>
+               <head>His Epitaph.</head>
+               <l>HEre lies Inter'd a Child that liv'd <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Who though he dy'd, lives to eter<gap reason="illegible" resp="#uom" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y</l>
+               <l>The Holy Scriptures were his great delig<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</l>
+               <l>He's now above among the Saints in Ligh<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>He liv'd a holy Life, in Death had pea<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>He dy'd that all his sorrows might surce<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
